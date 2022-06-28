@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Logo" src="https://raw.githubusercontent.com/mdxp-js/.github/main/images/logo.svg?sanitize=True" width="100%"/>
+<img alt="Logo" src="https://raw.githubusercontent.com/mdxp-js/.github/main/images/logo.svg?sanitize=true" width="100%"/>
 
 _Web Slides Made Easy_
 
