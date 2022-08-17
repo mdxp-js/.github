@@ -11,7 +11,8 @@
           --clr-neutral: #ffffff;
         }
       }
-      [data-color-mode=dark][data-dark-theme*=dark] .logo {
+      [data-color-mode=dark][data-dark-theme*=dark] .logo,
+      .source-dark .logo {
         --clr-neutral: #ffffff;
       }
       
