@@ -11,6 +11,9 @@
           --clr-neutral: #ffffff;
         }
       }
+      [data-color-mode=dark][data-dark-theme*=dark] .logo {
+        --clr-neutral: #ffffff;
+      }
       
       .logo .text {
         fill: var(--clr-neutral);
